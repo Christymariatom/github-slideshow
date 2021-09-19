@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Christy Maria Tom
+I'am from palai
 
 Use the left arrow to go back!
